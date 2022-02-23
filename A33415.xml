@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Clergy's late carriage to the King considered in a letter to a friend, allowed to be published this 2d day of July, 1688.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33415</idno>
+            <idno type="STC">Wing C4647</idno>
+            <idno type="STC">ESTC R37728</idno>
+            <idno type="EEBO-CITATION">17008100</idno>
+            <idno type="OCLC">ocm 17008100</idno>
+            <idno type="VID">105744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105744)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1611:68)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Clergy's late carriage to the King considered in a letter to a friend, allowed to be published this 2d day of July, 1688.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.L. and I.K. and sold by most booksellers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:105744:1" rendition="simple:additions"/>
+            <head>THE Clergy's late Carriage TO THE KING, CONSIDERED. In a Letter to a friend.</head>
+            <opener>
+               <dateline>Allowed to be Publiſhed <date>this 2d Day of <hi>July, 1688.</hi>
+                  </date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>PErhaps I am in the wrong, but I beg your Pardon if I can't think ſo, when I don't know it. On the con<g ref="char:EOLhyphen"/>trary, I grow more aſſured in my Opinion, ſince t'other Night, by all the Reflections I could make upon what paſt between us. It ſeems, I ſay unaccountable to Good Senſe, Duty, Modeſty, and every thing that becomes a dutiful Subject (to ſay nothing of the Chriſtian) that the <hi>King</hi> was not only not obey'd by the <hi>Clergy,</hi> where it was no Sin to do it, but where the Obedience was purely <hi>Miniſterial.</hi> Had it been to <hi>renounce</hi> their own Religion, or to <hi>receive</hi> His, it had been <hi>ſomething;</hi> but when it was to <hi>ſecure</hi> every Reli<g ref="char:EOLhyphen"/>gion from Violence and Perſecution: Nay, when it was a Declaration of <hi>His</hi> Mind about a good Work, and not of <hi>Theirs:</hi> No new Declara<g ref="char:EOLhyphen"/>tion of <hi>Liberty of Conſcience,</hi> but a Publica<g ref="char:EOLhyphen"/>tion of what He had done laſt Year; and that what was New in it, was only the <hi>King's Reſo<g ref="char:EOLhyphen"/>lution to have a Parliament next Winter,</hi> in order to have that paſt into a Law, which the <hi>Biſhops</hi> ſeemed only to diſlike for want of being done by Law and Still to reſiſt their King and Head, I ſay, this is ſomething ſurprizing. In ſhort, the De<g ref="char:EOLhyphen"/>claration was in its firſt part meerly <hi>Hiſtorical,</hi> what the King had done <hi>April</hi> 1687. the laſt part what He would do, to wit, have a Parlia<g ref="char:EOLhyphen"/>ment in <hi>Novem.</hi> next at fartheſt to Eſtabliſh this <hi>Liberty of Conſcience.</hi> And as this was in truth the Buſineſs of the Declaration, the other but the Preface to it, ſo with trouble I ſay it, that this makes their Diſobedience the more ſuſpect<g ref="char:EOLhyphen"/>ed, and unreaſonable; for they refuſe to tell the World, the <hi>King</hi> would have a <hi>Parliament</hi> to confirm the Liberty, which yet they profeſs to be for, in Parliament. I ſay, this looks with an ill Air, and carries too great a contradiction for Men of their Function and Learning; and yet ſo it muſt be, or they are inſincere in their Petition. But this is not all; The Reverence theſe Gentle<g ref="char:EOLhyphen"/>men have always profeſt for the <hi>Monarchy,</hi> Their Opinion of the mighty Power of it, The Cha<g ref="char:EOLhyphen"/>racter they have fixt on thoſe that have been ſcru<g ref="char:EOLhyphen"/>pulous to obey it, in Caſes leſs clear then this, is an aggravation of their Misfortune; for at this rate no <hi>inſeriour Miniſter</hi> is ſo much as obli<g ref="char:EOLhyphen"/>ged to report the Act of a Superiour, if it is not ſuitable to his own Judgment: A <hi>Clark of a Court</hi> may refuſe to read an Inditement, becauſe he thinks the Man Innocent that is impeached at the Bar by it: No <hi>Sheriff</hi> ought to read a Pro<g ref="char:EOLhyphen"/>clamation, or execute an Offender unleſs his Judgment concur with that of the <hi>Prince</hi> or the <hi>Judge.</hi> It carries (what ever they think of it) the power of <hi>Queſtioning</hi> the Commands of Su<g ref="char:EOLhyphen"/>periours into all the capacities and relations of Life, even where it is no matter of Faith. If I bid my Servant go tell a Man I deal with, He has uſed me very diſhoneſtly, at this rate he may re<g ref="char:EOLhyphen"/>fuſe for this reaſon, <hi>That truly he has a better opi<g ref="char:EOLhyphen"/>nion of him,</hi> and therefore won't go of my Er<g ref="char:EOLhyphen"/>rand. <hi>Had the King ſet up for Law making, or inten<g ref="char:EOLhyphen"/>ded finally to abrogate Laws, or ſuſpend Laws made againſt any thing that was evil in it ſelf, or Laws that preſerve Property inſtead of thoſe that take it a<g ref="char:EOLhyphen"/>way; or that it had touch't upon matters of Faith, or the Worſhip of God, or intrench't upon any Priviledge that belongs to the</hi> Church of England; <hi>or if He had required them to read the Opinion of the Judges about the Diſpencing Power, or a Treatiſe in defence of it, in order to Endoctrinate the People,</hi> they might have had room for ſome Exception, and yet in this latter Caſe perhaps they had been lit<g ref="char:EOLhyphen"/>tle more then Miniſterial too. But when it was
+<pb n="2" facs="tcp:105744:2"/>only to tell his Subjects, in the moſt effectual way <hi>(more going to Church then to Market)</hi> that whereas He did emit a Declaration in 1687. for <hi>Liberty of Conſcience,</hi> (the Hiſtorical part) <hi>He reſolved in</hi> November <hi>next, at fartheſt, to hold a Parliament for the Confirmation of it:</hi> Give me leave to ſay, without offence, It looks as if the Exception were a <hi>Cavil,</hi> and not a <hi>Scruple.</hi>
+            </p>
+            <p>By whom elſe ſhould the <hi>Eccleſiaſtical Head</hi> ſpeak to the <hi>Eccleſiaſtical Body?</hi> for it therefore ſeems to me reaſonable that they ſhould have read it in their <hi>Churches,</hi> becauſe they are the State <hi>Meeting-Houſes,</hi> and the <hi>Clergy</hi> the State <hi>Mouthes.</hi> Will they claim their Legal Privi<g ref="char:EOLhyphen"/>ledges, and not bate an Ace of being the <hi>Church of England</hi> as by Law Eſtabliſhed, and yet refuſe to let the Head ſpeak by them the Mouth, His mind to the People, his Eccleſiaſtical Body? Can this conſiſt with Eccleſiaſtical Headſhip and O<g ref="char:EOLhyphen"/>bedience? where no Aſſent or Conſent was ex<g ref="char:EOLhyphen"/>acted from them, nor were they to require it of the People; but as I ſaid before, a meer <hi>Report</hi> of the <hi>King</hi>'s Mind, referring to a publick <hi>fu<g ref="char:EOLhyphen"/>ture Act,</hi> of which the Peoples Information was requiſite for their own Benefit and Content, as well as the <hi>Kings</hi> Service. I ſay, for the <hi>Clergy</hi> to refuſe their <hi>Head,</hi> and this <hi>Head</hi> too, that they ſo generally and earneſtly deſire to wear upon their Shoulders, and at this time of Day, and about a thing they ſay they have a due ten<g ref="char:EOLhyphen"/>derneſs too, has an appearance as if they would widen Breaches and highten Animoſities, ay, ri<g ref="char:EOLhyphen"/>pen and head them too, inſtead of ſuppreſſing them. I ſay, it looks ſo, for I would fain have a better opinion of their Loyalty and Conſci<g ref="char:EOLhyphen"/>ence then to think they meant it; However this Conduct goes <hi>too far,</hi> thus to <hi>ſtrive</hi> and <hi>chicane</hi> with their <hi>Prince,</hi> and by popular pretences to raiſe themſelves upon the breath of the Rabble above the duty they ow Him, this is at leaſt <hi>the appearance of Evil,</hi> and unbecomes <hi>Men of Peace and Religion,</hi> to be ſure ſuch as pretend to be the <hi>Succeſſors</hi> of the <hi>Apoſtles,</hi> that command Obedi<g ref="char:EOLhyphen"/>ence for Conſcience ſake, where Conſcience was not impoſed upon, and has been pleaded by this very <hi>Clergy</hi> againſt <hi>Diſſenters,</hi> to urge their Con<g ref="char:EOLhyphen"/>formity where matters of Faith and Worſhip to God were concerned.</p>
+            <p>Tho this, I ſay, and not Religion, be the Caſe, yet ſuch is the Malice of the World, as to ſay it, and ſuch has been their Weakneſs, as to give occaſion for it: I confeſs that has been the uneaſieſt part to me, that they have acted, I mean their <hi>Mock Martyrdom,</hi> to force Suffering and act it to a Farce. What elſe can be their Bleſſing People ten deep of a ſide, with <hi>Have a care of your Religion, be faithful to your Religion, the Lord ſtrengthen you &amp;c.</hi> and whilſt not one <hi>tittle</hi> of their Religion, but the Liberty of other Mens was the Caſe: What ſhall an honeſt Man think of this? when the plain Engliſh of the matter was that they went to the <hi>Power</hi> for not reading a Declaration for ſettling of <hi>Liberty of Conſcience</hi> by Law, to hinder them from ever ma<g ref="char:EOLhyphen"/>king Martyrs of other Men any more for Conſci<g ref="char:EOLhyphen"/>ence ſake. This is the Point before God and Men, after all the buſtle their Non-reſiſting Principle has ſuffered them to make; and 'tis this I am ſcan<g ref="char:EOLhyphen"/>daliz'd at, to ſee a jeſt acted ſo much in Earneſt, and Religion made one, and profain'd too, by ſuch forced pretences. God give them Repen<g ref="char:EOLhyphen"/>tance and confirm the <hi>King</hi> in his wiſe courſe of Moderation: For the Liberty when ſeftled will ſhame its Enemies, and ſave and encreaſe the number of its Friends, for what ever is ſug<g ref="char:EOLhyphen"/>geſted by ill Men, 'tis <hi>Liberty of Conſcience</hi> that is aim'd at. Liberty built upon a <hi>Rock</hi> and not a <hi>Sand:</hi> To be fram'd to exclude any one Party from the Power of endangering the reſt: Can we honeſtly fear <hi>Popery</hi> ſhould break this Liberty, when it even becomes a ſecurity againſt the more refined <hi>Popery</hi> of the <hi>Church of England?</hi> What will prevent the leſs cannot admit the greater. <hi>The Net which will catch a little Fiſh, will not let a greater paſs.</hi> How unjuſt therefore are the Jealouſies of thoſe, and how impudent their Words that prejudge that matter, and will not leave it to the only place where the <hi>Tryal</hi> of the ſincerity of all Parties can be made? I mean a <hi>Parliament:</hi> To that time I refer the whole Controverſy, and do beg all Par<g ref="char:EOLhyphen"/>ties to prepare to make the Seſſion happy in try<g ref="char:EOLhyphen"/>ing not how to divide, but unite upon this great <hi>Point;</hi> where if the <hi>Biſhops</hi> ſhew their converſi<g ref="char:EOLhyphen"/>on to Liberty, by a tenderneſs truly due to Con<g ref="char:EOLhyphen"/>ſcience in every Party, I ſhall heartily change the opinion, their contrary practiſe, for ſo many Years paſt, has conſtrained me to entertain a<g ref="char:EOLhyphen"/>bout them, but till then I have greater reaſon to count their preſent Zeal <hi>A fit of Art,</hi> than they have to ſuſpect the Court of inſincerity in the buſineſs of the preſent Declaration: A thought that Seven Years ago would have been with them <hi>Inſufferable</hi> in a Diſſenter, eſpecially about any Act of power in the <hi>Clergy's favour.</hi> What then can one call Their crime, that in the name of <hi>Religion, and Law,</hi> can bring them<g ref="char:EOLhyphen"/>ſelves to conteſt their <hi>Kings</hi> command, upon his Judges Opinions, in a caſe of ſo much mercy and goodneſs? For ſuch an one this is, and the effect of it Heaven hath already bleſt: It is what might have become the greateſt, and beſt of <hi>Princes</hi> of former Ages, but it looks as if it had been reſerved for the glory of him that now Sways the <hi>Engliſh Scepter;</hi> and I confeſss I can't refrain hoping this goodneſs of his, will give Example, even where his power can't give Law.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>H. L.</hi> and <hi>I. K.</hi> and Sold by moſt Booksellers in <hi>London</hi> and <hi> Weſtminſter.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
